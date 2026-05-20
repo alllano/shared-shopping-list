@@ -1,4 +1,4 @@
-# 🛒 MarketSync (O el nombre que elijas para tu app)
+# 🛒 MarketSync
 
 **MarketSync** es una aplicación móvil diseñada para simplificar y optimizar la gestión de compras de mercado en entornos compartidos (como grupos familiares o comunidades), conectando las necesidades de los usuarios con un flujo de administración y consolidación logística en tiempo real. 
 
